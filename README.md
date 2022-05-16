@@ -6,6 +6,7 @@
 
     ```
     $ cd php_ridma
+    $ git checkout master
     $ composer install
     ```
 2. Edit configuration files.
