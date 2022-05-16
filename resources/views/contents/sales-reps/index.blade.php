@@ -9,7 +9,7 @@
                         {{ __('Sales Representatives') }}
                         <x-flash-message type="success" key="success" />
                         <a href="{{route('sales-reps.create')}}" class="btn btn-primary float-end">
-                            {{ __('Add New') }}
+                            {{ __('Add New Sales Representatives') }}
                         </a>
                     </div>
 
