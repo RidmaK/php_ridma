@@ -5,7 +5,7 @@
 1. Install backend depedencies.
 
     ```
-    $ cd E-Commerce
+    $ cd php_ridma
     $ composer install
     ```
 2. Edit configuration files.
